@@ -53,5 +53,5 @@ story: >-
 timeline_title: Where are we now?
 timeline_events:
   - date: 2021-07
-    description: Launch of The Eyeballs, powered by [HestiaLabs](www.hestialabs.org/en/)
+    description: Launch of The Eyeballs, powered by [HestiaLabs](https://hestialabs.org/en/)
 ---
