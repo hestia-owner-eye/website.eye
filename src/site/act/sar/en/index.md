@@ -1,8 +1,9 @@
 ---
-organization_type: Q1186
+organization_type: ""
 mailto_template_name: MailtoAccess
 layout: sar
 permalink: /en/act/sar/index.html
+collective: Q5393
 inverse: true
 title: Your digital twin
 lead: Which kind of **target** are you?
