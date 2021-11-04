@@ -51,7 +51,7 @@ paragraphs:
       télécharger vos données.
 
 
-      Mais elles doivent vous donner accès aux informations qu'elles ont accumulées à votre sujet (la loi les y oblige, qu’elle soit [européenne](https://gdpr-text.com/read/article-15/), [britannique](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) ou [suisse](https://www.edoeb.admin.ch/edoeb/fr/home/protection-des-donnees/generalites/le-droit-d_acces.html)).
+      Mais elles doivent vous donner accès aux informations qu'elles ont accumulées à votre sujet (la loi les y oblige, qu’elle soit [européenne](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2244-1-1), [britannique](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) ou [suisse](https://www.edoeb.admin.ch/edoeb/fr/home/protection-des-donnees/generalites/le-droit-d_acces.html)).
 
 
       La démarche pouvant être laborieuse, nous l’avons automatisé pour vous.
@@ -59,7 +59,8 @@ layout: paragraphs
 permalink: /fr/tools/index.html
 title: Outils
 lead: |-
-  Découvrez
+  **Découvrez**
+
   ce qu'ils collectent
 lead_image: /assets/media/eye_hero_yellow.png
 lead_image_caption: ""

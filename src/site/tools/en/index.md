@@ -55,7 +55,7 @@ paragraphs:
       Most companies do not offer an easy interface to download your data.
 
 
-      But they must give you access to the information they have accumulated about you (they are obliged to do so by law, whether [European](https://gdpr-text.com/read/article-15/), [British](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) or [Swiss](https://www.edoeb.admin.ch/edoeb/fr/home/protection-des-donnees/generalites/le-droit-d_acces.html)).
+      But they must give you access to the information they have accumulated about you (they are obliged to do so by law, whether [European](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2244-1-1), [British](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) or [Swiss](https://www.edoeb.admin.ch/edoeb/fr/home/protection-des-donnees/generalites/le-droit-d_acces.html)).
 
 
       As this can be a laborious process, we have automated it for you.
@@ -64,6 +64,7 @@ permalink: /en/tools/index.html
 title: Tools
 lead: |-
   Now you can **see**
+
   what they collect
 lead_image: /assets/media/eye_hero_yellow.png
 lead_image_caption: ""
