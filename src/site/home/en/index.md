@@ -14,7 +14,7 @@ paragraphs:
 
       How am I targeted? How much am I worth? More or less than my neighbour? Why? Join the Eyeballs and find out what digital sauce you are being eaten with.
     link_text: Discover (and compare) your digital value
-    url: /en/act/sar/
+    url: /en/tools/
     primary_button: true
   - title: You are influenced
     description: >-
