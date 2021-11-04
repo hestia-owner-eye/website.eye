@@ -20,4 +20,4 @@ The digital world is a one-way mirror. You only see the images it shows you: the
 That you break the mirror! The Eyeballs makes the invisible visible: all the traces you leave online that serve to draw up your psychological profile: your flaws, your tastes, the words and images capable of convincing you. We give you the tools to see the digital world as it really is and not as its actors want you to see it.
 
 
-<button class="primary big">[Understand how you are targeted](/en/act/sar/)</button>
+<button class="primary big">[Understand how you are targeted](/en/tools/)</button>
