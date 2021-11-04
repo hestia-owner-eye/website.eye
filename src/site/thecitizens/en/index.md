@@ -3,7 +3,9 @@ organization_type: Q5404
 mailto_template_name: MailtoAccess
 layout: thecitizens
 permalink: /en/thecitizens/index.html
-lead: What data does the Labour Party have on you?
+lead: |-
+  Are you concerned by
+  The **Labour Party Breach**?
 lead_image_caption: ""
 sar_sub_title: '"Members, registered and affiliated supporters, and other
   individuals who have provided their information to the Party" are concerned

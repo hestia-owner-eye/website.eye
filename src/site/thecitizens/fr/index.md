@@ -4,7 +4,9 @@ layout: thecitizens
 permalink: /fr/thecitizens/index.html
 inverse: true
 title: The Citizens
-lead: Quelles données le parti travailliste possède-t-il sur vous ?
+lead: |-
+  Êtes-vous concerné·e par
+  la faille du parti travailliste ?
 lead_image: /assets/media/hero-rouge.png
 lead_image_caption: ""
 sar_title: Ce que le Parti travailliste sait de vous
