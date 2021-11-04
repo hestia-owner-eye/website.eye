@@ -15,7 +15,7 @@ collective: ""
 inverse: true
 title: The Citizens
 lead_image: /assets/media/hero-rouge.png
-sar_title: What the Labour Party has on you
+sar_title: What the Labour Party (unintentionally) shared about you
 ---
 On 4 November 2021, The UK Labour Party published a statement revealing
 that "a third party that handles data on \[its] behalf has been subject to a cyber incident."
@@ -23,3 +23,5 @@ that "a third party that handles data on \[its] behalf has been subject to a cyb
 Not only is the data of its 430,000 members may be affected, but also those of an unknown (potentially huge) number of people who are or have been connected with the party: "registered and affiliated supporters, and other individuals who have provided their information."
 
 All of these people have a legal right ([Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted)) to know what data the Labour Party has had stolen about them.
+
+For [The Citizens](https://the-citizens.com), The Eyeballs have developed an automated subject access request generator. This makes it easy for anyone to ask the Labour Party for their lost information.
