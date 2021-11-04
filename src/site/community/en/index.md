@@ -3,15 +3,6 @@ conversation_channels_title: Any question? Let's talk!
 people_title: People
 layout: community
 permalink: /en/community/index.html
-story_title: Targeted, head held high
-people: []
-conversation_channels:
-  - type: twitter_url
-    name: Twitter
-  - type: generic_url
-    name: Contact us
-    url: /en/contact/
-inverse: true
 title: Community
 lead: |-
   We are the
@@ -19,6 +10,7 @@ lead: |-
   **“Targeted Audiences”**
 lead_image: /assets/media/hero-rouge.png
 lead_image_caption: ""
+story_title: Targeted, head held high
 story: >-
   The Eyeballs brings together all those who have accepted to face the truth:
   the slightest of our online behavior is analyzed, monitored and sold.
@@ -33,7 +25,7 @@ story: >-
   You can't change anything by burying your head in the sand.
 
 
-  <button class="primary big">[Raise your head too: Understand how you are targeted](/en/act/sar/)</button>
+  <button class="primary big">[Raise your head too: Understand how you are targeted](/en/tools/)</button>
 
 
   ## 1+1+1+... = huge impact
@@ -50,8 +42,16 @@ story: >-
   <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Ce que les messageries savent de vous <a href="https://t.co/HOMXNbXs0T">pic.twitter.com/HOMXNbXs0T</a></p>&mdash; Gilles Babinet (@babgi) <a href="https://twitter.com/babgi/status/1348003104856399873?ref_src=twsrc%5Etfw">January 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
   ```
+people: []
 timeline_title: Where are we now?
 timeline_events:
   - date: 2021-07
     description: Launch of The Eyeballs, powered by [HestiaLabs](https://hestialabs.org/en/)
+conversation_channels:
+  - type: twitter_url
+    name: Twitter
+  - type: generic_url
+    name: Contact us
+    url: /en/contact/
+inverse: true
 ---
