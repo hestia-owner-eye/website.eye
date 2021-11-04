@@ -1,12 +1,12 @@
 ---
 organization_type: Q5404
 mailto_template_name: MailtoAccess
-layout: sar
+layout: thecitizens
 permalink: /en/thecitizens/index.html
 collective: ""
 inverse: true
 title: The Citizens
-lead: Which kind of **target** are you?
+lead: Labour party breach
 lead_image: /assets/media/hero-rouge.png
 lead_image_caption: ""
 sar_title: Media that have data about you

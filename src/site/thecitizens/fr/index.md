@@ -1,10 +1,10 @@
 ---
 mailto_template_name: MailtoAccessFR
-layout: sar
+layout: thecitizens
 permalink: /fr/thecitizens/index.html
 inverse: true
 title: The Citizens
-lead: Quelle **cible** êtes-vous?
+lead: Fuite de labour
 lead_image: /assets/media/hero-rouge.png
 lead_image_caption: ""
 sar_title: Médias qui ont des données à votre sujet
