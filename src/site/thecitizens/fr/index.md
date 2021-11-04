@@ -4,9 +4,7 @@ layout: thecitizens
 permalink: /fr/thecitizens/index.html
 inverse: true
 title: The Citizens
-lead: |-
-  Êtes-vous concerné·e par
-  la **faille du parti travailliste** ?
+lead: Êtes-vous concerné·e par la **faille du parti travailliste** ?
 lead_image: /assets/media/hero-rouge.png
 lead_image_caption: ""
 sar_title: Ce que le Parti travailliste a (involontairement) partagé vous concernant
