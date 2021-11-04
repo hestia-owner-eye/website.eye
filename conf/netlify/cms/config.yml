@@ -52,6 +52,8 @@ collections:
       i18n: true
       fields:
         - { label: Home, name: home, required: false, widget: string, i18n: true }
+        - { label: Tools, name: tools, required: false, widget: string, i18n: true }
+        - { label: Services, name: services, required: false, widget: string, i18n: true }
         - { label: Blog, name: blog, required: false, widget: string, i18n: true }
         - { label: Mission, name: mission, required: false, widget: string, i18n: true }
         - { label: Partners, name: partners, required: false, widget: string, i18n: true }
@@ -212,6 +214,74 @@ collections:
             display_fields: ["title"]
             multiple: false
             search_fields: ["title", "body"]
+
+- label: Tools
+  name: tools
+  # Configure i18n for this collection.
+  folder: src/site/tools
+  extension: md
+  editor:
+    preview: false
+  create: false
+  delete: false
+  i18n:
+    structure: multiple_folders
+  preview_path: /en/
+  fields:
+    - { label: "Browser tab title", name: title, required: false, widget: string, i18n: true }
+    - { label: Lead , name: lead, required: false, widget: markdown, i18n: true }
+    - { label: Lead image , name: lead_image, required: false, widget: image, i18n: true }
+    - { label: "Lead image caption", name: lead_image_caption, required: false, i18n: true,
+        widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true }
+    - { label: "Paragraphs title", name: paragraphs_title, required: false, i18n: true,
+        widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
+    - label: "Paragraphs"
+      name: "paragraphs"
+      widget: "list"
+      summary: '{{fields.title}}'
+      i18n: true
+      fields:
+        - { label: "Title", name: title, required: false, i18n: true,
+            widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
+        - { label: "Description", name: description, required: false, widget: markdown, i18n: true }
+        - { label: "Link text", name: link_text, required: false, widget: string, i18n: true }
+        - { label: Link, name: url, required: false, widget: file, i18n: true,
+            hint: 'Write a relative url if you link to another page on this website. (for example "partners/", not "/partners/")'}
+        - { label: "Colored button", name: primary_button, required: false, widget: boolean, i18n: true }
+
+- label: Services
+  name: services
+  # Configure i18n for this collection.
+  folder: src/site/services
+  extension: md
+  editor:
+    preview: false
+  create: false
+  delete: false
+  i18n:
+    structure: multiple_folders
+  preview_path: /en/
+  fields:
+    - { label: "Browser tab title", name: title, required: false, widget: string, i18n: true }
+    - { label: Lead , name: lead, required: false, widget: markdown, i18n: true }
+    - { label: Lead image , name: lead_image, required: false, widget: image, i18n: true }
+    - { label: "Lead image caption", name: lead_image_caption, required: false, i18n: true,
+        widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true }
+    - { label: "Paragraphs title", name: paragraphs_title, required: false, i18n: true,
+        widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
+    - label: "Paragraphs"
+      name: "paragraphs"
+      widget: "list"
+      summary: '{{fields.title}}'
+      i18n: true
+      fields:
+        - { label: "Title", name: title, required: false, i18n: true,
+            widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
+        - { label: "Description", name: description, required: false, widget: markdown, i18n: true }
+        - { label: "Link text", name: link_text, required: false, widget: string, i18n: true }
+        - { label: Link, name: url, required: false, widget: file, i18n: true,
+            hint: 'Write a relative url if you link to another page on this website. (for example "partners/", not "/partners/")'}
+        - { label: "Colored button", name: primary_button, required: false, widget: boolean, i18n: true }
 
 - label: Community
   name: community

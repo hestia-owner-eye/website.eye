@@ -1,0 +1,22 @@
+---
+layout: defaultWithHero
+inverse: true
+---
+<section id="purpose">
+  <h1>{% inlineMarkdown paragraphs_title %}</h1>
+  <div class="grid-layout-halves with-gutters">
+    {% for paragraph in paragraphs %}
+      <div class="grid-cell">
+        <h2>{% inlineMarkdown paragraph.title %}</h2>
+        {% markdown paragraph.description %}
+        {% if paragraph.link_text %}
+          <a href="{{paragraph.url}}">
+            <button
+              {% if paragraph.primary_button %}class="primary"{% endif %}
+              >{{paragraph.link_text}}</button>
+          </a>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+</section>
