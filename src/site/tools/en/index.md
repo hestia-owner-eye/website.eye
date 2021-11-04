@@ -15,7 +15,7 @@ paragraphs:
       and not as its actors want you to see it.\r\n"
     link_text: ""
     url: ""
-    primary_button: true
+    primary_button: false
   - description: >-
       First, [download your Twitter
       archive](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive).
@@ -29,7 +29,8 @@ paragraphs:
   - title: Facebook
     description: >-
       First, [download your Facebook
-      archive](https://www.facebook.com/help/212802592074644).
+      archive](https://www.facebook.com/help/212802592074644) (json format).
+
 
       Next, find out what information advertisers share with Facebook to target you more precisely and the portrait of you that Facebook sells (the list of your interests).
     link_text: Facebook Data Experience
