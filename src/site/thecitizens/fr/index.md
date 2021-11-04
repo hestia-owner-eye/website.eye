@@ -19,4 +19,4 @@ Les données de ses 430000 membres peuvent être concernées, mais aussi celles 
 
 Toutes ces personnes ont le droit légal ([Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted)) de savoir quelles données le Parti travailliste s'est fait voler à leur sujet.
 
-Pour The Citizens, The Eyeballs a développé un générateur automatisé de demandes d'accès. Quiconque peut ainsi demander facilement au Parti travailliste les informations perdues à son sujet.
+Pour [The Citizens](https://the-citizens.com), The Eyeballs a développé un générateur automatisé de demandes d'accès. Quiconque peut ainsi demander facilement au Parti travailliste les informations perdues à son sujet.
