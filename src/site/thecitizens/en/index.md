@@ -21,3 +21,5 @@ On 4 November 2021, The UK Labour Party published a statement revealing
 that "a third party that handles data on \[its] behalf has been subject to a cyber incident."
 
 Not only is the data of its 430,000 members may be affected, but also those of an unknown (potentially huge) number of people who are or have been connected with the party: "registered and affiliated supporters, and other individuals who have provided their information."
+
+All of these people have a legal right ([Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted)) to know what data the Labour Party has had stolen about them.
