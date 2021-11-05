@@ -34,7 +34,7 @@ We’re joining forces to investigate a data breach reported by the UK Labour pa
 
 On November 4, 2021, the UK Labour Party published a statement revealing that “a third party that handles data on \[its] behalf has been subject to a cyber incident.”
 
-It notified people who might have been affected. But there’s a whole lot of information that we don’t know and apparently have no way apparently of finding out.
+It notified people who might have been affected. But there’s a whole lot of information that we don’t know and apparently have no way of finding out.
 
 ## We don’t know:
 
@@ -48,7 +48,7 @@ It notified people who might have been affected. But there’s a whole lot of in
 As individuals, we have a legal right under the 2018 [Data Protection Act](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) to know when our personal data has been compromised. But as individuals we only get a partial glimpse. However, if we can organise people to individually find out what happened to their individual data and then bring them together, collectively we can find out much more.
 
 
-So that’s the plan. If enough people ask the Labour Party enough questions - through a Subject Access Request or SAR which is our legal right we may be able to uncover what actually happened.
+So that’s the plan. If enough people ask the Labour Party enough questions - through a Subject Access Request or SAR which is our legal right - we may be able to uncover what actually happened.
 
 Together with our partner, [The Eyeballs](/), we have developed an automated SAR generator to make it easy for you to find out.
 
