@@ -1,5 +1,5 @@
 ---
-mailto_template_name: MailtoAccessFR
+mailto_template_name: MailtoAccessUK
 layout: thecitizens
 permalink: /fr/thecitizens/index.html
 inverse: true
