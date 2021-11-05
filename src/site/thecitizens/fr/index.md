@@ -12,7 +12,7 @@ lead_image_caption: ""
 sar_title: ""
 sar_sub_title: Ce que le Parti travailliste a (involontairement) partagé vous concernant
 ---
-![](/assets/media/logo-the-citizens.jpeg)
+![](/assets/media/citizens_eyeballs_small.jpg)
 
 Le 4 novembre 2021, le Parti travailliste britannique a [publié un communiqué](https://labour.org.uk/about-your-data/) révélant qu'"un tiers qui traite des données en \[son] nom a fait l'objet d'un cyberincident."
 
