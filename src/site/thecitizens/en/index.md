@@ -5,6 +5,7 @@ layout: thecitizens
 permalink: /en/thecitizens/index.html
 lead: |-
   Are you concerned by the
+
   **Labour Party Breach**?
 lead_image_caption: ""
 sar_sub_title: ""
@@ -12,9 +13,9 @@ collective: ""
 inverse: true
 title: The Citizens
 lead_image: /assets/media/hero-rouge.png
-sar_title: What the Labour Party (unintentionally) shared about you
+sar_title: Discover what the Labour Party (unintentionally) shared about you
 ---
-![](/assets/media/the-citizens-the-eyeballs.png)
+![](/assets/media/the-citizens-the-eyeballs.bmp)
 
 ### We need your help!
 
