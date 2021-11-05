@@ -14,6 +14,8 @@ title: The Citizens
 lead_image: /assets/media/hero-rouge.png
 sar_title: What the Labour Party (unintentionally) shared about you
 ---
+![](/assets/media/logo-the-citizens.jpeg)
+
 ### We need your help!
 
 Ever since the Cambridge Analytica scandal, we’ve come to understand how political parties and campaigns collect vast quantities of personal data on us to use in political campaigning. But we don’t know what data they have, where they got it from or what they do with it. 
