@@ -15,7 +15,7 @@ title: The Citizens
 lead_image: /assets/media/hero-rouge.png
 sar_title: ""
 ---
-![](/assets/media/citizens_eyeballs.jpg)
+![](/assets/media/citizens_eyeballs_small.jpg)
 
 ### We need your help!
 
