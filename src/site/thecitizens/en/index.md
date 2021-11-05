@@ -32,14 +32,14 @@ We’re joining forces to investigate a data breach reported by the UK Labour pa
 
 ### What happened?
 
-On November 4, 2021, the UK Labour Party published a statement revealing that "a third party that handles data on \[its] behalf has been subject to a cyber incident.”
+On November 4, 2021, the UK Labour Party published a statement revealing that “a third party that handles data on \[its] behalf has been subject to a cyber incident.”
 
 It notified people it said might have been affected. But there’s a whole lot of information that we don’t know and have no way apparently of finding out.
 
 ### We don’t know:
 
 * How many of its 430,000 members  were affected.
-* It is unclear if "registered and affiliated supporters, and other individuals who have provided their information” are affected.
+* It is unclear if “registered and affiliated supporters, and other individuals who have provided their information” are affected.
 * If “supporters” of the parties as well as members were affected.
 * What data it had on who and what has been leaked.
 * Who this “third party” is. And how - or why - they had access to our data. 
