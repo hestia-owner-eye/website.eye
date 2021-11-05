@@ -24,9 +24,11 @@ We want to change that with an innovative new data investigation that brings ord
 
 ### Who we are
 
-We are two non-profit organisations that emerged from the Cambridge Analytica scandal - the Citizens and the Eyeballs. The Citizens was co-founded by journalist Carole Cadwalladr who broke the scandal in 2018 in the Observer. And Swiss data campaigner, Paul-Olivier Dehaye, set up The Eyeballs. His early investigations into Cambridge Analytica were foundational to much of the journalism that came later. 
+We are two non-profit organisations that emerged from the Cambridge Analytica scandal - The Citizens and The Eyeballs. The Citizens was co-founded by journalist Carole Cadwalladr who broke the scandal in 2018 in the Observer. And Swiss data campaigner, Paul-Olivier Dehaye, set up The Eyeballs. His early investigations into Cambridge Analytica were foundational to much of the journalism that came later. 
 
-We’re joining forces to investigate a data breach reported by the UK Labour party. We hope this will be the beginning of a wider investigation into the use of data in politics. 
+We’re joining forces to investigate a data breach reported by the UK Labour party. We hope this will be the beginning of a wider investigation into the use of data in politics.
+
+<button class="primary big">[Ask for your data](/en/thecitizens/#sar)</button>
 
 ### What happened?
 
@@ -49,6 +51,8 @@ As individuals, we have a legal right under the 2018 [Data Protection Act](https
 So that’s the plan. If enough people ask the Labour Party enough questions - through a Subject Access Request or SAR which is our legal right under the law -  we may be able to uncover what actually happened. 
 
 Together with our partner, [The Eyeballs](/), we have developed an automated SAR generator to make it easy for you to find out.
+
+<button class="primary big">[Ask for your data](/en/thecitizens/#sar)</button>
 
 ### What we know
 
