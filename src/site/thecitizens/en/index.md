@@ -1,19 +1,19 @@
 ---
 organization_type: Q5404
-mailto_template_name: MailtoAccess
+mailto_template_name: MailtoAccessUK
 layout: thecitizens
 permalink: /en/thecitizens/index.html
+collective: ""
+inverse: true
+title: The Citizens
 lead: Are you concerned by the **Labour Party Breach**?
+lead_image: /assets/media/hero-rouge.png
 lead_image_caption: ""
+sar_title: What the Labour Party (unintentionally) shared about you
 sar_sub_title: '"Members, registered and affiliated supporters, and other
   individuals who have provided their information to the Party" are concerned
   [wrote the Labour](https://labour.org.uk/about-your-data/). Are you? Fill this
   form to find out.'
-collective: ""
-inverse: true
-title: The Citizens
-lead_image: /assets/media/hero-rouge.png
-sar_title: What the Labour Party (unintentionally) shared about you
 ---
 On 4 November 2021, The UK Labour Party published a statement revealing
 that "a third party that handles data on \[its] behalf has been subject to a cyber incident."
