@@ -9,6 +9,7 @@
     "legal": "legal",
     "tools": "tools",
     "services": "services",
+    "the_citizens": "labour data breach",
     "home": "home"
   },
   "fr": {
@@ -21,6 +22,7 @@
     "legal": "mentions légales",
     "tools": "outils",
     "services": "services",
+    "the_citizens": "faille des travaillistes",
     "home": "accueil"
   }
 }
