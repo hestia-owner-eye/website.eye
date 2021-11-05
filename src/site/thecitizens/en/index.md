@@ -14,7 +14,7 @@ title: The Citizens
 lead_image: /assets/media/hero-rouge.png
 sar_title: What the Labour Party (unintentionally) shared about you
 ---
-![](/assets/media/logo-the-citizens.jpeg)
+![](/assets/media/the-citizens-the-eyeballs.png)
 
 ### We need your help!
 
