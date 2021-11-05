@@ -54,11 +54,12 @@ collections:
         - { label: Home, name: home, required: false, widget: string, i18n: true }
         - { label: Tools, name: tools, required: false, widget: string, i18n: true }
         - { label: Services, name: services, required: false, widget: string, i18n: true }
-        - { label: Blog, name: blog, required: false, widget: string, i18n: true }
+        - { label: The citizens, name: the_citizens, required: false, widget: string, i18n: true }
         - { label: Mission, name: mission, required: false, widget: string, i18n: true }
+        - { label: Community, name: community, required: false, widget: string, i18n: true }
         - { label: Partners, name: partners, required: false, widget: string, i18n: true }
         - { label: Media, name: media, required: false, widget: string, i18n: true }
-        - { label: Community, name: community, required: false, widget: string, i18n: true }
+        - { label: Blog, name: blog, required: false, widget: string, i18n: true }
         - { label: Contact, name: contact, required: false, widget: string, i18n: true }
     - label: Components text fragments (newsletter, contact and sar forms)
       name: i18n-newsletter-signup
