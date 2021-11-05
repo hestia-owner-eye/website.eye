@@ -38,9 +38,8 @@ It notified people who might have been affected. But there’s a whole lot of in
 
 ## We don’t know:
 
-* How many of its 430,000 members  were affected.
-* If “supporters” are affected.
-* If “supporters” of the party as well as members were affected.
+* How many of its 430,000 members were affected.
+* How “supporters” of the party as well as members were affected.
 * What data Labour had on who and what has been leaked.
 * Who this “third party” is. And how - or why - they had access to our data. 
 
