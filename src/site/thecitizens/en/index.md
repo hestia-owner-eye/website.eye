@@ -29,6 +29,8 @@ We are two non-profit organisations that emerged from the Cambridge Analytica sc
 
 We’re joining forces to investigate a data breach reported by the UK Labour party. We hope this will be the beginning of a wider investigation into the use of data in politics.
 
+<button class="primary big">[Ask for your data](/en/thecitizens/#sar)</button>
+
 ### What happened?
 
 On November 4, 2021, the UK Labour Party published a statement revealing that “a third party that handles data on \[its] behalf has been subject to a cyber incident.”
@@ -50,6 +52,8 @@ As individuals, we have a legal right under the 2018 [Data Protection Act](https
 So that’s the plan. If enough people ask the Labour Party enough questions - through a Subject Access Request or SAR which is our legal right under the law -  we may be able to uncover what actually happened. 
 
 Together with our partner, [The Eyeballs](/), we have developed an automated SAR generator to make it easy for you to find out.
+
+<button class="primary big">[Ask for your data](/en/thecitizens/#sar)</button>
 
 ### What we know
 
