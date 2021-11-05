@@ -20,3 +20,12 @@ inverse: true
     {% endfor %}
   </div>
 </section>
+
+<section id="newsletter" class="newsletter">
+  <newsletter-signup lang="{{locale}}" form-name="newsletter-eye-signup">
+  </newsletter-signup>
+</section>
+
+<script type="module">
+  import '/components/newsletter-signup.js';
+</script>
