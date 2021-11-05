@@ -29,7 +29,7 @@ We are two non-profit organisations that emerged from the Cambridge Analytica sc
 
 We’re joining forces to investigate a data breach reported by the UK Labour party. We hope this will be the beginning of a wider investigation into the use of data in politics.
 
-<center><button class="primary big">[Ask for your data](/en/thecitizens/#sar)</button></center>
+<button class="primary big">\[Ask for your data](/en/thecitizens/#sar)</button>
 
 ### What happened?
 
@@ -53,7 +53,7 @@ So that’s the plan. If enough people ask the Labour Party enough questions - t
 
 Together with our partner, [The Eyeballs](/), we have developed an automated SAR generator to make it easy for you to find out.
 
-<center><button class="primary big">[Ask for your data](/en/thecitizens/#sar)</button></center>
+<button class="primary big">\[Ask for your data](/en/thecitizens/#sar)</button>
 
 ### What we know
 
