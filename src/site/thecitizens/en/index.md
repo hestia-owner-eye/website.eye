@@ -8,15 +8,13 @@ lead: |-
 
   **Labour Party Breach**?
 lead_image_caption: ""
-sar_sub_title: ""
+sar_sub_title: Discover what the Labour Party (unintentionally) shared about you
 collective: ""
 inverse: true
 title: The Citizens
 lead_image: /assets/media/hero-rouge.png
-sar_title: Discover what the Labour Party (unintentionally) shared about you
+sar_title: ""
 ---
-![](/assets/media/the-citizens-the-eyeballs.bmp)
-
 ### We need your help!
 
 Ever since the Cambridge Analytica scandal, we’ve come to understand how political parties and campaigns collect vast quantities of personal data on us to use in political campaigning. But we don’t know what data they have, where they got it from or what they do with it. 

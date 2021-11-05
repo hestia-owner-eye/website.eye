@@ -9,8 +9,8 @@ lead: |-
   **faille du parti travailliste** ?
 lead_image: /assets/media/hero-rouge.png
 lead_image_caption: ""
-sar_title: Ce que le Parti travailliste a (involontairement) partagé vous concernant
-sar_sub_title: ""
+sar_title: ""
+sar_sub_title: Ce que le Parti travailliste a (involontairement) partagé vous concernant
 ---
 ![](/assets/media/logo-the-citizens.jpeg)
 
