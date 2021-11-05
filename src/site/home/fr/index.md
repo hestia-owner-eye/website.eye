@@ -14,7 +14,7 @@ paragraphs:
 
       Comment suis-je ciblé·e? Combien est-ce que je vaux? Plus, ou moins que mon voisin? Pourquoi? Rejoignez the Eyeballs et découvrez à quelle sauce numérique vous êtes mangé·e.
     link_text: Découvrez (et comparez) votre valeur numérique
-    url: /fr/act/sar/
+    url: /fr/tools/
     primary_button: true
   - title: Vous êtes influencé·e
     description: >-
