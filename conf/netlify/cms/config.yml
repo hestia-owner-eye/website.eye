@@ -888,6 +888,9 @@ collections:
         widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
     - { label: "SAR subtitle" , name: sar_sub_title , required: false, i18n: true,
         widget: markdown, buttons: [bold, italic, link], editor_components: [], minimal: true}
+    - { label: CC email, name: carbon_copy_recipient, required: false, widget: string, i18n: true,
+        hint: 'The user will be able to choose whether to send a copy of his email to this address'}
+    - { label: CC description, name: carbon_copy_description, required: false, widget: string, i18n: true  }
     - { label: Personaldata.io collective, name: collective, required: false, widget: string,
         hint: 'If this field is set, the organization type will be ignored. Example value for "the eyeballs": Q5393'}
     - { label: Personaldata.io organization type, name: organization_type, required: false, widget: string,
