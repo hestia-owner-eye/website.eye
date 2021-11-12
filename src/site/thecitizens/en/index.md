@@ -14,6 +14,8 @@ inverse: true
 title: The Citizens
 lead_image: /assets/media/hero-rouge.png
 sar_title: ""
+carbon_copy_recipient: info@the-citizens.com
+carbon_copy_description: Copy in the Citizens and we will follow up and help guide you through the process
 ---
 ## The Citizens and The Eyeballs need your help!
 
@@ -72,4 +74,4 @@ The UK data regime is undergoing a huge shift. The government is rewriting our d
 
 Right now, we have some rights to find out how political parties use our data to target us. That right is under threat and that’s why this investigation is so important. But we can only do it with your help.
 
-Please take a moment to fill out this form. Even if you’ve never been a member of the Labour party, it may have had data on you. And please share it with your friends. Thank you!
+Please take a moment to fill out this form. Even if you’ve never been a member of the Labour party, it may have had data on you. And please share it with your friends. Thank you!

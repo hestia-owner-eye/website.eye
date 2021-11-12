@@ -11,6 +11,8 @@ lead_image: /assets/media/hero-rouge.png
 lead_image_caption: ""
 sar_title: ""
 sar_sub_title: Ce que le Parti travailliste a (involontairement) partagé vous concernant
+carbon_copy_recipient: info@the-citizens.com
+carbon_copy_description: Copy in the Citizens and we will follow up and help guide you through the process
 ---
 ![](/assets/media/citizens_eyeballs_small.jpg)
 
