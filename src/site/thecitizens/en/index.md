@@ -1,21 +1,22 @@
 ---
+carbon_copy_recipient: databreach@the-citizens.com
+carbon_copy_description: Copy in the Citizens and we will follow up and help
+  guide you through the process
 organization_type: Q5404
 mailto_template_name: MailtoAccessUK
 layout: thecitizens
 permalink: /en/thecitizens/index.html
+collective: ""
+inverse: true
+title: The Citizens
 lead: |-
   Are you concerned by the
 
   **Labour Party data breach**?
-lead_image_caption: ""
-sar_sub_title: Discover what the Labour Party (unintentionally) shared about you
-collective: ""
-inverse: true
-title: The Citizens
 lead_image: /assets/media/hero-rouge.png
+lead_image_caption: ""
 sar_title: ""
-carbon_copy_recipient: info@the-citizens.com
-carbon_copy_description: Copy in the Citizens and we will follow up and help guide you through the process
+sar_sub_title: Discover what the Labour Party (unintentionally) shared about you
 ---
 ## The Citizens and The Eyeballs need your help!
 
