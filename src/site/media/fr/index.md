@@ -1,5 +1,5 @@
 ---
-title: Media
+title: Média
 lead: Ils nous gardent à l’oeil
 lead_image: /assets/media/hero-rouge.png
 lead_image_caption: ""
@@ -15,9 +15,10 @@ media_articles:
     title: Anti-complot - Les données personnelles collectées sur les réseaux sociaux
     image: /assets/media/hl_media_lci-2.png
 press_releases:
-  - date: 2021-07-12T12:59:14.786Z
-    title: (Un tout petit peu de patience)
-    url: /fr/contact/media/
+  - date: 2021-11-15T13:59:14.786Z
+    title: The Eyeballs fournissent l'outil pour enquêter sur la faille de données
+      des travaillistes britanniques
+    url: https://drive.infomaniak.com/app/share/193995/ebd7b76e-834a-4dbe-a24b-08d1fcae7d45
 layout: media
 permalink: /fr/media/index.html
 articles_title: Derniers articles

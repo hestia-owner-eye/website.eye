@@ -15,9 +15,9 @@ media_articles:
     title: Anti-complot - Personal data collected on social networks
     image: /assets/media/hl_media_lci-2.png
 press_releases:
-  - date: 2021-07-12T12:59:14.786Z
-    title: Coming soon
-    url: /en/contact/media/
+  - date: 2021-11-15T13:59:14.786Z
+    title: The Eyeballs provide the tool to investigate the UK Labour data breach
+    url: https://drive.infomaniak.com/app/share/193995/f9f479c7-4d41-4b2b-9ec3-b27d3d91cb99
 layout: media
 permalink: /en/media/index.html
 articles_title: Last articles
