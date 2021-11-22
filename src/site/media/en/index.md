@@ -9,7 +9,11 @@ download_title: Media kit
 download_button: Coming soon
 press_releases_title: Press releases
 contact_channel: media
-media_articles: []
+media_articles:
+  - date: 2021-10-22T09:57:37.883Z
+    url: https://www.lci.fr/replay-lci/video-anti-complot-l-emission-du-22-10-2021-2199776.html
+    title: Anti-complot - Personal data collected on social networks
+    image: /assets/media/hl_media_lci-2.png
 press_releases:
   - date: 2021-07-12T12:59:14.786Z
     title: Coming soon

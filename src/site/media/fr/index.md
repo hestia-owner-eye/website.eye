@@ -9,7 +9,11 @@ download_title: Media kit
 download_button: (Un tout petit peu de patience)
 press_releases_title: Communiqués de presse
 contact_channel: media
-media_articles: []
+media_articles:
+  - date: 2021-10-22T09:58:28.430Z
+    url: https://www.lci.fr/replay-lci/video-anti-complot-l-emission-du-22-10-2021-2199776.html
+    title: Anti-complot - Les données personnelles collectées sur les réseaux sociaux
+    image: /assets/media/hl_media_lci-2.png
 press_releases:
   - date: 2021-07-12T12:59:14.786Z
     title: (Un tout petit peu de patience)
