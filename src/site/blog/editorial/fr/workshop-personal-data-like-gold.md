@@ -1,6 +1,11 @@
 ---
-title: Nos ateliers "réseaux sociaux" et "applications de rencontre" séduisent
+title: Nos workshops pour découvrir ce que les réseaux sociaux savent de vous
 date: 2022-03-22T13:21:55.390Z
+post_categories:
+  - news
+post_authors:
+  - cfd
+show_social_sharing: true
 ---
 Découvrez quelques images du workshop que nous avons organisés sur les données collectées par les Facebook et Twitter, en parallèle de celui organisé par le collectif de données [Dating Privacy](https://dating-privacy.hestialabs.org/) sur les applications de rencontre.
 
@@ -16,4 +21,4 @@ Merci aux participants pour leur implication, leurs questions pertinentes et leu
 
 A bientôt pour de nouveaux workshops.
 
-En attendant, si vous voulez vous aussi en apprendre plus sur les données collectées sur vous n’hésitez pas à utiliser nos outils. Nous postons sur cette page Vimeo les tutos pour vous y aider.
+En attendant, si vous voulez vous aussi en apprendre plus sur les données collectées sur vous n’hésitez pas à utiliser nos outils. Nous postons sur cette [page Vimeo](https://vimeo.com/hestiaai) les tutos pour vous y aider.

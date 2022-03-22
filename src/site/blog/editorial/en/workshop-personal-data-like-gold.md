@@ -1,8 +1,8 @@
 ---
 id: workshop-personal-data-like-gold
-title: Our "social networks" and "dating applications" workshops are very
-  attractive worlds
+title: Our workshops to discover what social networks know about you
 date: 2022-03-22T13:21:55.370Z
+image: /assets/media/workshop_hestialabs-4.jpg
 lead: >-
   Check out some pictures of the workshop we organized on data collected by
   Facebook and Twitter, in parallel with the one organized by the data
@@ -27,10 +27,15 @@ lead: >-
   See you soon for new workshops.
 
 
-  In the meantime, if you want to learn more about the data collected about you, feel free to use our tools. We post on this Vimeo page the tutorials to help you.
+  In the meantime, if you want to learn more about the data collected about you, feel free to use our tools. We post on this [Vimeo page](https://vimeo.com/hestiaai) the tutorials to help you.
 post_categories:
   - news
 post_authors:
   - cfd
+suggested:
+  - type: editorial
+    post: The Twitter experience, first episode
+  - type: editorial
+    post: Facebook-watch-you-offline
 show_social_sharing: true
 ---
