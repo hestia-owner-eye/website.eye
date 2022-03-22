@@ -2,7 +2,7 @@
 title: Nos workshops pour découvrir ce que les réseaux sociaux savent de vous
 date: 2022-03-22T13:21:55.390Z
 post_categories:
-  - news
+  - data-experiences
 post_authors:
   - cfd
 show_social_sharing: true
@@ -13,7 +13,7 @@ Grâce aux [outils](/fr/tools/) qu'[HestiaLabs](https://hestialabs.org/) a déve
 
 Ils ont aussi pu jouer avec notre extension de navigateur [AdRadar](https://github.com/hestiaAI/ad-radar/blob/main/README.md) qui affiche le prix des publicités en ligne sur les publicités.
 
-<video controls width="100%">
+<video poster="https://eyeballs.hestialabs.org/assets/media/workshop_hestialabs-4.jpg" controls width="100%">
   <source src="https://hestialabs.org/assets/media/workshop_collectives5.mp4" type="video/mp4">
 </video>
 
