@@ -12,7 +12,7 @@ show_social_sharing: true
 Dans ce premier épisode de notre série "[Data Experiences](/fr/blog/category/data-experiences/)" et grâce à l'[expérience sur les données Twitter](https://experiences.hestialabs.org/twitter) que HestiaLabs a développée pour The Eyeballs, vous apprendrez à comprendre les données que Twitter collecte sur vous et comment elles sont utilisées pour monétiser votre attention.
 
 <video poster="/assets/media/Twitter-Data-Exp-2.png" controls width="100%">
-  <source src="/assets/media/1-Stream-Twitter-1-Data Exp_final.mp4" type="video/mp4">
+  <source src="/assets/media/1-Stream-Twitter-1-Data-Exp_final.mp4" type="video/mp4">
 </video>
 
 Avant de l'utiliser, vous devez télécharger les données collectées sur vous par Twitter. Pour télécharger votre archive Twitter, tout est expliqué [ici](https://twitter.com/LetTweetBe/status/1417423759401701377?s=20&t=zxogfz_OtQiyxvgNrc4Isw).
