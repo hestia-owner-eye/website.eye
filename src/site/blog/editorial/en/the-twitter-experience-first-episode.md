@@ -9,10 +9,16 @@ lead: If you want to know how I ended up being a guinea pig for The Eyeballs'
   project and follow my first steps in the labyrinth of data that Twitter has
   accumulated on me, it's right here.
 post_categories:
-  - news
+  - data-experiences
 post_authors:
   - cfd
-suggested: []
+suggested:
+  - type: editorial
+    post: twitter-data-experience-1
+  - type: editorial
+    post: workshop-personal-data-like-gold
+  - type: editorial
+    post: Facebook-watch-you-offline
 show_social_sharing: true
 ---
 Hello, my name is Charles Foucault-Dumas, I'm 39 years old and have very few qualities other than curiosity. So when [HestiaLabs](www.hestialabs.org), for whom I work, decided to support The Eyeballs initiative by developing software tools capable of revealing digital traces each of us leaves online and how they are used to convince us (to buy this, to vote for that...), I immediately raised my finger.

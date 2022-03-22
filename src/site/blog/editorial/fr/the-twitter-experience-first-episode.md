@@ -5,7 +5,7 @@ lead: Si vous voulez savoir comment je me suis retrouvé cobaye du projet The
   Eyeballs et suivre mes premiers pas dans le labyrinthe des données que Twitter
   a accumulées sur moi, c’est par ici.
 post_categories:
-  - news
+  - data-experiences
 post_authors:
   - cfd
 suggested: []
