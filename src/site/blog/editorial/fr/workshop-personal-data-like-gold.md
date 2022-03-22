@@ -22,3 +22,5 @@ Merci aux participants pour leur implication, leurs questions pertinentes et leu
 A bientôt pour de nouveaux workshops.
 
 En attendant, si vous voulez vous aussi en apprendre plus sur les données collectées sur vous n’hésitez pas à utiliser nos outils. Nous postons sur cette [page Vimeo](https://vimeo.com/hestiaai) les tutos pour vous y aider.
+
+Nous pouvons aussi déployer des workshops sur-mesure dans le contexte particulier de votre entreprise ou de votre organisation. N’hésitez pas à [nous contacter](/fr/contact/).

@@ -28,6 +28,9 @@ lead: >-
 
 
   In the meantime, if you want to learn more about the data collected about you, feel free to use our tools. We post on this [Vimeo page](https://vimeo.com/hestiaai) the tutorials to help you.
+
+
+  We can also provide tailor-made workshops in the specific context of your company or organization. Do not hesitate to [contact us](/en/contact/).
 post_categories:
   - news
 post_authors:
