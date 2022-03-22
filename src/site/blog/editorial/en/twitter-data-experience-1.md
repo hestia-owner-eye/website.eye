@@ -18,7 +18,7 @@ suggested:
     post: Facebook-watch-you-offline
 show_social_sharing: true
 ---
-In this second episode of our '[Data Experiences](/en/blog/category/data-experiences/)' series, you’ll learn how to understand the data Twitter collects on you and how it uses it to monetize your attention thanks to the [Twitter Data Experience](https://experiences.hestialabs.org/twitter) HestiaLabs developed for The Eyeballs.
+In this second episode of our '[Data Experiences](/en/blog/category/data-experiences/)' series and thanks to the [Twitter Data Experience](https://experiences.hestialabs.org/twitter) HestiaLabs developed for The Eyeballs, you’ll learn how to understand the data Twitter collects on you and how it uses it to monetize your attention.
 
 <video poster="/assets/media/Twitter-Data-Exp-2.png" controls width="100%">
   <source src="/assets/media/1-Stream-Twitter-1-Data Exp_final.mp4" type="video/mp4">
