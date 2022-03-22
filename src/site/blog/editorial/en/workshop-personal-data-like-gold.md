@@ -5,7 +5,7 @@ date: 2022-03-22T13:21:55.370Z
 image: /assets/media/workshop_hestialabs-4.jpg
 lead: ""
 post_categories:
-  - news
+  - data-experiences
 post_authors:
   - cfd
 suggested:
