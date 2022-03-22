@@ -21,7 +21,7 @@ Thanks to [the tools](/en/tools/) [HestiaLabs](https://hestialabs.org/) develope
 
 They were also able to play with our [AdRadar](https://github.com/hestiaAI/ad-radar/blob/main/README.md) browser extension that displays the price of online ads on ads.
 
-<video controls width="100%">
+<video poster="https://eyeballs.hestialabs.org/assets/media/workshop_hestialabs-4.jpg" controls width="100%">
   <source src="https://hestialabs.org/assets/media/workshop_collectives5.mp4" type="video/mp4">
 </video>
 
