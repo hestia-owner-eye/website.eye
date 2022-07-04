@@ -33,7 +33,7 @@ paragraphs:
     primary_button: true
 layout: home
 permalink: /fr/index.html
-title: The Eyeballs
+title: The Eyeballs 00
 lead: |-
   Ils vous observent\
   **Observez-les !**
