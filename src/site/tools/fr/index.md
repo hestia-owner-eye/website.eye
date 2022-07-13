@@ -13,7 +13,7 @@ paragraphs:
     link_text: ""
     url: ""
     primary_button: false
-  - url: https://experiences.hestialabs.org/twitter
+  - url: https://experiences.hestialabs.org/experience/twitter
     title: Twitter
     primary_button: true
     description: >-
@@ -25,7 +25,7 @@ paragraphs:
     link_text: Twitter Data Experience
   - title: Facebook
     primary_button: true
-    url: https://experiences.hestialabs.org/facebook
+    url: https://experiences.hestialabs.org/experience/facebook
     link_text: Facebook Data Experience
     description: >-
       Commencez par [télécharger votre archive
