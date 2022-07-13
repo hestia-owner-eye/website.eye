@@ -25,7 +25,7 @@ paragraphs:
     title: Twitter
     link_text: Twitter Data Experience
     primary_button: true
-    url: https://experiences.hestialabs.org/twitter
+    url: https://experiences.hestialabs.org/experience/twitter
   - title: Facebook
     description: >-
       First, [download your Facebook
@@ -34,7 +34,7 @@ paragraphs:
 
       Next, find out what information advertisers share with Facebook to target you more precisely and the portrait of you that Facebook sells (the list of your interests).
     link_text: Facebook Data Experience
-    url: https://experiences.hestialabs.org/facebook
+    url: https://experiences.hestialabs.org/experience/facebook
     primary_button: true
   - title: Ad Radar
     link_text: Install Ad Radar
