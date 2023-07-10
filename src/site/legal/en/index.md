@@ -13,7 +13,7 @@ lead: "Last Updated: July 2021"
 
 ## Copyrights
 
-All content (trademarks, names, titles, logos, images, graphics, text and other elements) on this website is protected by copyright. Any reproduction is therefore subject to the written consent of the author.
+All content (trademarks, names, titles, logos, images, graphics, text and other elements) on this website is protected by copyright. Any reproduction is therefore subject to the written consent of the author!
 
 The various contents of the site may not be freely reproduced without the indication of the source and the explicit permission of the authors. Similarly, the pages of The Eyeballs' website must not be embedded within the pages of another site.
 
